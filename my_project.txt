@@ -1,0 +1,9 @@
+#define <stdio.h>
+
+int main()
+{
+printf("Hello world");
+printf("I like chicken");
+
+return 0;
+}
